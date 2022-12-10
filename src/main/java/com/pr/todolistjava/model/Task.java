@@ -26,8 +26,8 @@ public class Task {
     @Column(nullable = false)
     private String description;
 
-    @Column(name = "dead_line", nullable = false)
-    private Date deadLine;
+    @Column()
+    private Boolean done = false;
 
     @CreationTimestamp
     @Column(name = "created_at", nullable = false, updatable = false)

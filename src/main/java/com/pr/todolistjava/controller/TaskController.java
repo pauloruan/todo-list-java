@@ -33,4 +33,16 @@ public class TaskController {
     public ResponseEntity<Task> findTaskById(@PathVariable (value = "id") Long id) {
         return taskService.findTaskById(id);
     }
+
+    @PutMapping("/tasks/{id}")
+    @ResponseStatus(HttpStatus.OK)
+    public ResponseEntity<Task> updateTask(@PathVariable (value = "id") Long id, @RequestBody Task task) {
+        return taskService.updateTask(task, id);
+    }
+
+    @DeleteMapping("/tasks/{id}")
+    @ResponseStatus(HttpStatus.NO_CONTENT)
+    public ResponseEntity<Object> deleteTask(@PathVariable (value = "id") Long id) {
+        return taskService.deleteTask(id);
+    }
 }
