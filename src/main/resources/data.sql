@@ -1,0 +1,5 @@
+INSERT INTO tasks (title, description, dead_line, created_at, updated_at) VALUES ('Estudar', 'Estudar Java.', '2022-12-31', '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
+INSERT INTO tasks (title, description, dead_line, created_at, updated_at) VALUES ('Estudar', 'Estudar Spring.', '2022-12-31', '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
+INSERT INTO tasks (title, description, dead_line, created_at, updated_at) VALUES ('Estudar', 'Estudar SOLID.', '2022-12-31', '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
+INSERT INTO tasks (title, description, dead_line, created_at, updated_at) VALUES ('Estudar', 'Estudar SQL.', '2022-12-31', '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
+INSERT INTO tasks (title, description, dead_line, created_at, updated_at) VALUES ('Estudar', 'Estudar Angular.', '2022-12-31', '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');

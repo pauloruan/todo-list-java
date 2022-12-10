@@ -26,7 +26,7 @@ public class Task {
     @Column(nullable = false)
     private String description;
 
-    @Column(nullable = false)
+    @Column(name = "dead_line", nullable = false)
     private Date deadLine;
 
     @CreationTimestamp
