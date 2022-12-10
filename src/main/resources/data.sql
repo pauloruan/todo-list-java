@@ -1,5 +1,5 @@
-INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar Java.', false, '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
-INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar Spring.', false, '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
-INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar SOLID.', false, '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
-INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar SQL.', false, '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
-INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar Angular.', false, '2022-12-10T01:19:36.799+00:00', '2022-12-10T01:19:36.799+00:00');
+INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar Java.', false, '2022-12-10T12:52:26.836917415', '2022-12-10T12:52:26.8373126');
+INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar Spring.', false, '2022-12-10T12:52:26.836917415', '2022-12-10T12:52:26.8373126');
+INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar SOLID.', false, '2022-12-10T12:52:26.836917415', '2022-12-10T12:52:26.8373126');
+INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar SQL.', false, '2022-12-10T12:52:26.836917415', '2022-12-10T12:52:26.8373126');
+INSERT INTO tasks (title, description, done, created_at, updated_at) VALUES ('Estudar', 'Estudar Angular.', false, '2022-12-10T12:52:26.836917415', '2022-12-10T12:52:26.8373126');
